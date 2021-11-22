@@ -10,6 +10,3 @@ total_height = 0
 for height in student_heights:
     total_height += height
 print(f"전체 키의 합 = {total_height}")
-
-
-s
